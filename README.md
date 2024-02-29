@@ -1,4 +1,4 @@
-## FastApi Backend
+## FastApi Backend: Chatbot
 - This is a fastApi backend that will be used fro chatbot to communicate with the frontend.
 
 ### HOW TO RUN
